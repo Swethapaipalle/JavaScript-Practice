@@ -1,0 +1,15 @@
+body{
+    background-image: url(20210703_134602.jpg);
+    text-align:center;
+    background-size: cover;
+}
+
+button{
+    color:black;
+    width:200px;
+    font-size: 32px;
+    font-style: oblique;
+    font-family:'Times New Roman', Times, serif;
+    border: 2px solid rgb(184, 25, 25);
+    background-color: #ff0011;
+}
